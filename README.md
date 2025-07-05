@@ -1,2 +1,4 @@
 # Telstra-Zero-Day-Vulnerability-Malware-Mitigation-Python-Job-Simulation
-In this task, we will simulate the firewall’s scripting language by using an HTTP Server. You can assume this HTTP Server has no computational requirements and has the sole purpose of filtering incoming traffic.  In the starter codebase, you will find a test script that you can use to simulate the malicious requests to the server. 
+Work with the networks team to implement a firewall rule using the Python scripting language.
+In this task, we will simulate the firewall’s scripting language by using an HTTP Server.
+Use Python to develop a firewall rule to mitigate the attack. 
